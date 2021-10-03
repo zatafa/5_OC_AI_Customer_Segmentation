@@ -11,7 +11,11 @@ Provide customer segmentation that can be used in a daily basis for marketing ca
 
 # :scroll: Tasks
 - :heavy_check_mark: Preprocessing, incl. scaling, normalization
-- :heavy_check_mark: Assessment of segments' stability over time
+- :heavy_check_mark: Search of optimal "k"
+- :heavy_check_mark: Assess stability at initialization
+- :heavy_check_mark: Perform silhouette analysis with dimensionality reduction
+- :heavy_check_mark: Perform segment analysis
+- :heavy_check_mark: Assess segments' stability over time for maintenance
 
 ## Optimal "k" for KMeans
 Silhouette score, Elbow Method, Davies-Bouldin indice, Calinski-Harabasz indice
