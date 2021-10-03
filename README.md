@@ -38,4 +38,9 @@ Silhouette score, Elbow Method, Davies-Bouldin indice, Calinski-Harabasz indice
 Pandas, Numpy, Scipy, Matplotlib, Plotly Graph Objects, scikit-learn
 
 # :pushpin: References 
-- xx
+- [Clustering with scikit-learn](https://scikit-learn.org/stable/modules/clustering.html)
+- [KMeans clustering algorithm](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html), [DBSCAN](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
+- [Optimal "k"](https://gdcoder.com/silhouette-analysis-vs-elbow-method-vs-davies-bouldin-index-selecting-the-optimal-number-of-clusters-for-kmeans-clustering/)
+- Dataviz : [Silhouette analysis with scikit-learn](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html), [UMAP](https://umap-learn.readthedocs.io/en/latest/basic_usage.html), [T-SNE](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
+- [Adjusted Rand Score with scikit-learn](https://scikit-learn.org/stable/modules/clustering.html#adjusted-rand-score)
+- Plotly [Polar Plot](https://plotly.com/python/polar-chart/), [Radar chart](https://plotly.com/python/radar-chart/), [Sankey Diagram](https://www.python-graph-gallery.com/sankey-diagram-with-python-and-plotly)
